@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Voting-India-Dapp/static/css/main.6375f218.chunk.css",
-    "main.js": "/Voting-India-Dapp/static/js/main.d4220cf4.chunk.js",
-    "main.js.map": "/Voting-India-Dapp/static/js/main.d4220cf4.chunk.js.map",
+    "main.css": "/Voting-India-Dapp/static/css/main.72d580a6.chunk.css",
+    "main.js": "/Voting-India-Dapp/static/js/main.89caa6f2.chunk.js",
+    "main.js.map": "/Voting-India-Dapp/static/js/main.89caa6f2.chunk.js.map",
     "runtime-main.js": "/Voting-India-Dapp/static/js/runtime-main.cfe57985.js",
     "runtime-main.js.map": "/Voting-India-Dapp/static/js/runtime-main.cfe57985.js.map",
     "static/js/2.9100c889.chunk.js": "/Voting-India-Dapp/static/js/2.9100c889.chunk.js",
     "static/js/2.9100c889.chunk.js.map": "/Voting-India-Dapp/static/js/2.9100c889.chunk.js.map",
     "index.html": "/Voting-India-Dapp/index.html",
-    "precache-manifest.608e85b3cc3d3409cc6700a3997e8fa6.js": "/Voting-India-Dapp/precache-manifest.608e85b3cc3d3409cc6700a3997e8fa6.js",
+    "precache-manifest.5aa4b23ab0349524bf50a5691e8ca05d.js": "/Voting-India-Dapp/precache-manifest.5aa4b23ab0349524bf50a5691e8ca05d.js",
     "service-worker.js": "/Voting-India-Dapp/service-worker.js",
-    "static/css/main.6375f218.chunk.css.map": "/Voting-India-Dapp/static/css/main.6375f218.chunk.css.map"
+    "static/css/main.72d580a6.chunk.css.map": "/Voting-India-Dapp/static/css/main.72d580a6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.cfe57985.js",
     "static/js/2.9100c889.chunk.js",
-    "static/css/main.6375f218.chunk.css",
-    "static/js/main.d4220cf4.chunk.js"
+    "static/css/main.72d580a6.chunk.css",
+    "static/js/main.89caa6f2.chunk.js"
   ]
 }

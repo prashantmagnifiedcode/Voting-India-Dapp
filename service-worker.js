@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Voting-India-Dapp/precache-manifest.608e85b3cc3d3409cc6700a3997e8fa6.js"
+  "/Voting-India-Dapp/precache-manifest.5aa4b23ab0349524bf50a5691e8ca05d.js"
 );
 
 self.addEventListener('message', (event) => {
